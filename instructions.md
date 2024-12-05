@@ -4,6 +4,7 @@
 
 - Create a new GitHub repo: *for-loops-evidence*
 - Save your work to this repo
+- **Bring your finished script up to your teacher today before you leave**
 
 ### Coding (Part 1)
 
